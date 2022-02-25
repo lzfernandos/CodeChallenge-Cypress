@@ -1,8 +1,8 @@
-## How to execute the project
+## How to execute
 
 ```bash
 # clone the repository
-$ git clone https://github.com/weareqaninja/cypress-live-01-actions-parodify
+$ git clone git@github.com:lzfernandos/CodeChallenge-Cypress.git
 $ npm install
 $ npm run test
 ```
